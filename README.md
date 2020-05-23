@@ -1,0 +1,2 @@
+# blur_and_anonymize_face
+将图片中的人的头像打上马赛克
